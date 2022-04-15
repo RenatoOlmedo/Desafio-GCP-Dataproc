@@ -1,3 +1,7 @@
+# Repositório criado para a entrega do Desafio GCP Dataproc
+
+Durante o desafio não houveram muitas complicações ou contratempos, no entando foi possível ter uma visão geral do funcionamento do Google Cloud Platform, assim como seus serviços e ferramentas.
+
 # Digital Innovation One
 
 Código criado para utilização junto a plataforma da Digital Innovation One
