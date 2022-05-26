@@ -1,9 +1,9 @@
-# Repositório criado para a entrega do Desafio GCP Dataproc
+# Desafio GCP Dataproc
 
 Repositório criado e desenvolvido para os estudos com Google Cloud Platform propostos pelo "Desafio GCP Dataproc" propostos pela Digital Inovation One.
 Durante o desafio não houveram muitas complicações ou contratempos, no entando foi possível ter uma visão geral do funcionamento do Google Cloud Platform, assim como seus serviços e ferramentas.
 
-## Desafio GCP Dataproc
+## O Desafio
 
 O desafio faz parte do curso na plataforma da Digital Innovation One:
 
